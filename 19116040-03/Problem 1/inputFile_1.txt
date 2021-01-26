@@ -1,0 +1,19 @@
+5
+E1
+P1 5 C
+E1
+P7 2 C
+E1
+P5 2 B
+E1
+P3 2 A
+E1
+P13 2 E
+E1
+P12 5 D
+P
+E2
+P3 2 A
+P
+X
+E
