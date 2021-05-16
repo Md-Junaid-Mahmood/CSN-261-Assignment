@@ -1,0 +1,1 @@
+The purpose of this README file is to check whether multiple README files are allowed inside a repository or not.
