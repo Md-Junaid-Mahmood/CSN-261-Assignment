@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Sorting Algorithms"
-    ]
+        "Sorting Algorithms",
+        "Huffmann Code"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }
